@@ -3,3 +3,8 @@ source jupyter_env/bin/activate
 
 # Run JupyterLab
 jupyter lab
+
+
+
+source ~/jupyter_env/bin/activate
+jupyter notebook
